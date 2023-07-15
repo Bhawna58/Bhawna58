@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Bhawna58
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @Bhawna
+- 👀 I’m interested in ...Web Development,Cloud Computing
+- 🌱 I’m currently learning ...Database,Cloud
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-Bhawna58/Bhawna58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bhawna/Bhawna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
